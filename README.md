@@ -1,2 +1,2 @@
 # Tarea1CC
-Tarea 1 Computación Cientifica 2020-1
+Tareas Computación Cientifica 2020-1
